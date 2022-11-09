@@ -13,7 +13,7 @@ Priserne er i kroner og uden moms.
 Udfyld navn, og tariff for lav- og spidslast.
 
 {
-    name: "Radius C",
-    normal: .3003,
-    peak: .7651
+    name: "flow-elnet C",
+    normal: .2241,
+    peak: .5871
 }
